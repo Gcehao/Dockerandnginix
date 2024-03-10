@@ -387,8 +387,8 @@ startInstall()
         echo "    NGinX Proxy Manager admin account."
         echo ""
         echo "    The default login credentials for NGinX Proxy Manager are:"
-        echo "        username: frepai@frepai.com"
-        echo "        password: frepai"
+        echo "        用户名: admin@example.com"
+        echo "        密  码: changeme"
 
         echo ""       
         sleep 3s
